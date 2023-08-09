@@ -1,0 +1,92 @@
+#main {
+  width: 626px;
+height: 486px;
+margin: 64px auto 64px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+  text-align: center;
+  font-size: 15px;
+}
+
+body span {
+color: #828282;
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 22px;
+}
+
+#img1 {
+  margin: 0 auto 32px;
+}
+
+h1 {
+  color: #3F3D56;
+  font-family: Dosis;
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+h1 span {
+  color: #EE24FF;
+  font-family: Dosis;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+p {
+  color: #828282;
+text-align: center;
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 22px;
+}
+
+#texto2 {
+  color: #3F3D56;
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 22px;
+}
+
+#texto3 {
+  color: #828282;
+text-align: center;
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 400;
+
+margin: 32px auto;
+}
+
+.line {
+  width: 391px;
+height: 0px;
+margin: 64px auto 16px;
+border: solid 1px #ECEFF2;
+}
+
+#footer {
+  color: #3F3D56;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 147.682%;
+
+  margin: 0 auto 41px;
+}
+
+#footer a + a{
+  margin-left: 42px;
+}
+
+#footer a {
+  text-decoration: none
+}
